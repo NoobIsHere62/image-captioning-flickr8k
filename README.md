@@ -76,4 +76,23 @@ The model is trained and evaluated on the Flickr8k dataset.
 ## ▶️ How to Run
 
 1. Open notebook in Google Colab
-2. Install dependencies:
+2. Install dependencies: pip install transformers gradio gtts
+3. Mount Google Drive
+4. Run all cells
+
+---
+
+## 📷 Sample Output
+(Add images + generated captions here if possible)
+
+---
+
+## 👤 Author
+Nguyen Hoang Tuan
+
+---
+
+## 🔥 Future Improvements
+- Replace ViT with CLIP
+- Use full Transformer Encoder-Decoder
+- Deploy as web app

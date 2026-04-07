@@ -18,11 +18,7 @@ This project builds an image captioning model using CNN + LSTM on the Flickr8k d
 
 ## ▶️ How to run
 1. Open KLTN.ipynb in Google Colab
-2. Upload dataset
-3. Run all cells
-
-## 📷 Demo
-(Add output images here if possible)
+2. Run all cells
 
 ## 👤 Author
 Nguyen Hoang Tuan

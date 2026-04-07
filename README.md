@@ -82,11 +82,6 @@ The model is trained and evaluated on the Flickr8k dataset.
 
 ---
 
-## 📷 Sample Output
-(Add images + generated captions here if possible)
-
----
-
 ## 👤 Author
 Nguyen Hoang Tuan
 
